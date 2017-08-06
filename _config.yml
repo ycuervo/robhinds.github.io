@@ -73,6 +73,7 @@ education:
 github:
  - ycuervo/media-org
  - ycuervo/sync_comp_git_to_cc
+ - ycuervo/http-jdbc-driver
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
