@@ -12,11 +12,13 @@
 		var repo = $(this).data('repo');
 		
 		alert("Found " + repo);
+
+		var repoSplit = repo.split('/');
+
+		var vendorName = repoSplit[0];
+		var repoName = repoSplit[1];
 		
-		var vendorName = repo.split('/')[0];
-		var repoName = repo.split('/')[1];
-		
-		alert("Split = " + vendorName + " - " + repoName);
+		alert("Split = " + repoSplit + "[" + vendorName + "],[" + repoName + "]");
 		
 		if ( !vendors[ vendorName ] )
 		{
