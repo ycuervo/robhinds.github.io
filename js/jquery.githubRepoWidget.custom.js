@@ -9,7 +9,7 @@
 	//Group repos keyed by vendor(username)
 	$('.github-widget').each(function()
 	{
-		var repo = $(this).data('data-repo');
+		var repo = $(this).data('repo');
 		var vendorName = repo.split('/')[0];
 		var repoName = repo.split('/')[1];
 		if ( !vendors[ vendorName ] )
@@ -18,7 +18,7 @@
 		}
 		vendors[ vendorName ][ repoName ] = $(this) ;
 
-		alert("Found " + vendorName + " " + repoName);
+		alert("Found [" repo + " | " + vendorName + " | " + repoName + "]");
 	});
 
 
