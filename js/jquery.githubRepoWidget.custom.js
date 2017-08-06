@@ -11,22 +11,16 @@
 	{
 		var repo = $(this).data('repo');
 		
-		alert("Found " + repo);
-
 		var repoSplit = repo.split('/');
 
 		var vendorName = repoSplit[1];
 		var repoName = repoSplit[2];
-		
-		alert("Split = " + repoSplit + "[" + vendorName + "],[" + repoName + "]");
 		
 		if ( !vendors[ vendorName ] )
 		{
 		    vendors[ vendorName ] = {};
 		}
 		vendors[ vendorName ][ repoName ] = $(this) ;
-
-		alert("Results [" + repo + " | " + vendorName + " | " + repoName + "]");
 	});
 
 
