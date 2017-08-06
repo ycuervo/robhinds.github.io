@@ -69,7 +69,7 @@ education:
    subject: Computer Science
    school: Los Angeles Valley College
 
-#List of interesting Github repo/projects to include - optional
+#List of Github repo/projects to include - optional
 github:
  - /ycuervo/media-org
  - /ycuervo/sync_comp_git_to_cc
