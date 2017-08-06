@@ -15,7 +15,7 @@ primarylinks:
    url: https://www.linkedin.com/in/ycuervo/
 
 #Intro
-intro:
+intro: |
    I am a Manager of Software Development working at Entertainment Partners. I started my career at Entertainment Partners as an Administrative Assistant / Programmer Level 1 and over the course of my career move into a Programmer, a Senior, a Technicall Lead and now Development Manager.<br/><br/>
    I enjoy working with great people who are motivated by a challenge and always keep a positive outlook on work and life. I keep a high emphasis on good development practices, automation and always learning.
 
@@ -74,7 +74,7 @@ github:
  - /ycuervo/media-org
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo:
+additionalinfo: |
    <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. In my current role Java is the primary language used - and I am familiar with many of the languages features. <br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Ant and Jenkins.<br/><br/>
    <strong>Web Development</strong>: The majority of my Web Development knowledge has come from side jobs here and there creating sites. A few years ago, I built a site for a friend who runs a non-profit <a target='_blank' href="http://50thstreetyouthprogram.org">50th Street Youth Program</a>. This site was written in PHP backed by a mysql DB.<br/><br/>
