@@ -10,15 +10,21 @@
 	$('.github-widget').each(function()
 	{
 		var repo = $(this).data('repo');
+		
+		alert("Found " + repo);
+		
 		var vendorName = repo.split('/')[0];
 		var repoName = repo.split('/')[1];
+		
+		alert("Split = " + vendorName + " - " + repoName)
+		
 		if ( !vendors[ vendorName ] )
 		{
 		    vendors[ vendorName ] = {};
 		}
 		vendors[ vendorName ][ repoName ] = $(this) ;
 
-		alert("Found [" repo + " | " + vendorName + " | " + repoName + "]");
+		alert("Results [" repo + " | " + vendorName + " | " + repoName + "]");
 	});
 
 
