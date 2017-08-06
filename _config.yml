@@ -71,8 +71,8 @@ education:
 
 #List of Github repo/projects to include - optional
 github:
- - /ycuervo/media-org
- - /ycuervo/sync_comp_git_to_cc
+ - ycuervo/media-org
+ - ycuervo/sync_comp_git_to_cc
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |

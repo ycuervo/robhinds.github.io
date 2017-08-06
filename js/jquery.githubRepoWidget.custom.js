@@ -13,8 +13,8 @@
 		
 		var repoSplit = repo.split('/');
 
-		var vendorName = repoSplit[1];
-		var repoName = repoSplit[2];
+		var vendorName = repoSplit[0];
+		var repoName = repoSplit[1];
 		
 		if ( !vendors[ vendorName ] )
 		{
