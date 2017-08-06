@@ -16,7 +16,7 @@
 		var vendorName = repo.split('/')[0];
 		var repoName = repo.split('/')[1];
 		
-		alert("Split = " + vendorName + " - " + repoName)
+		alert("Split = " + vendorName + " - " + repoName);
 		
 		if ( !vendors[ vendorName ] )
 		{
