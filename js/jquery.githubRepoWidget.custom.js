@@ -24,7 +24,7 @@
 		}
 		vendors[ vendorName ][ repoName ] = $(this) ;
 
-		alert("Results [" repo + " | " + vendorName + " | " + repoName + "]");
+		alert("Results [" + repo + " | " + vendorName + " | " + repoName + "]");
 	});
 
 
