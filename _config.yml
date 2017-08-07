@@ -16,7 +16,7 @@ primarylinks:
 
 #Intro
 intro: |
-   I am a Manager of Software Development working at Entertainment Partners. I started my career at Entertainment Partners as an Administrative Assistant / Programmer Level 1 and over the course of my career moved into a Programmer, a Senior Developer, a Technicall Lead and now Development Manager.<br/><br/>
+   I am a Manager of Software Engineering working at Entertainment Partners. I started my career at Entertainment Partners as an Administrative Assistant / Programmer Level 1 and over the course of my career moved into a Programmer, a Senior Developer, a Technicall Lead and now Development Manager.<br/><br/>
    I keep a high emphasis on good development practices, automation and always learning. I enjoy working with great people who are motivated by a challenge and always keeping a positive outlook on work and life.
 
 #Any buzzword skills you want to include
@@ -71,9 +71,9 @@ education:
 
 #List of Github repo/projects to include - optional
 github:
- - ycuervo/media-org
- - ycuervo/sync_comp_git_to_cc
  - ycuervo/http-jdbc-driver
+ - ycuervo/sync_comp_git_to_cc
+ - ycuervo/media-org
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
