@@ -22,12 +22,13 @@ intro: |
 #Any buzzword skills you want to include
 skills:
  - Java
- - Spring
  - SQL
  - Git
  - Jenkins
  - SOLID Principles
  - Design Patterns
+ - Spring
+ - MondoDB
 
 #Work experience is required
 roles:
