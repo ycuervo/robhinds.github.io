@@ -16,7 +16,7 @@ primarylinks:
 
 #Intro
 intro: |
-   I am a Manager of Software Engineering working at Entertainment Partners. I started my career at Entertainment Partners as an Administrative Assistant / Programmer Level 1 and over the course of my career moved into a Programmer, a Senior Developer, a Technicall Lead and now Development Manager.<br/><br/>
+   I am a Senior Manager of Software Development working at Entertainment Partners. I started my career at Entertainment Partners as an Administrative Assistant / Programmer Level 1 and over the course of my career moved into a Programmer, a Senior Developer, a Technical Lead and now Development Manager.<br/><br/>
    I keep a high emphasis on good development practices, automation and always learning. I enjoy working with great people who are motivated by a challenge and always keeping a positive outlook on work and life.
 
 #Any buzzword skills you want to include
@@ -32,9 +32,14 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Senior Manager, Software Engineering
+   start: 2018
+   end: Ongoing
+   employer: Entertainment Partners
+   description: As a Senior Manager of Software Development, directly manage software development teams. Manage expectations of personnel, stake holders and business. Oversee coding standards and SDLC practices. Focus on team and company development and goals. Effectively maintains employee, team and cross functional communications.
  - title: Manager, Software Engineering
    start: 2017
-   end: Ongoing
+   end: 2018
    employer: Entertainment Partners
    description: As a Manager Software Development, directly manage software development teams. Manage expectations of personnel, stake holders and business. Oversee coding standards and SDLC practices.
  - title: Associate Manager Software Development
